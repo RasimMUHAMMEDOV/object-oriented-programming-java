@@ -1,9 +1,8 @@
 # OOP
 Java academic project
 
+**Student Grade Management System**
 
-**Student Grade Management System
-**
 Purpose:
 This project is a simple Java and JavaFX application for managing students, courses, grades, averages.
 
